@@ -1,5 +1,1 @@
-{{#user}}
-Name: Maitreyi
-Skills: HTML, CSS, JS, ReactJs,c++,c#,SQL,MS-Excel,Node.js
-Email: kshmaitreyi18@gmail.com
-{{/user}}
+
